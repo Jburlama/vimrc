@@ -22,9 +22,6 @@ inoremap <C-up> <C-o>:resize -1<CR>
 noremap <leader>w :w<CR>
 noremap <leader>wq :wq<CR>
 noremap <leader>q :q<CR>
-inoremap <leader>w <Esc>:w<CR>
-inoremap <leader>wq <Esc>:wq<CR>
-inoremap <leader>q <Esc>:q<CR>
 
 "past what got yanked
 noremap ,p "0p
